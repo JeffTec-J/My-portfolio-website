@@ -40,3 +40,6 @@ This version uses direct email and social links rather than a fake form that app
 - HTML5
 - CSS3 (responsive layout and mobile navigation styling)
 - Vanilla JavaScript (mobile menu and current year)
+
+## Markdown
+![Git Terminal History](images/terminal-history.jpg)========`
