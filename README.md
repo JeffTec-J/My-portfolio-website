@@ -1,12 +1,11 @@
+Name:Ndiwapit Jephthah Nyuidah.
+Department: Software Engineering.
+School:CITEC-HITM
+
+
 # Ndiwapit Jephthah Nyuidah — Portfolio Website
 
 A responsive personal portfolio built with plain HTML, CSS and JavaScript. No framework, package installation or build step is required.
-
-## Run locally
-
-1. Extract `portfolio-website.zip`.
-2. Open the `portfolio-website` folder.
-3. Double-click `index.html` to open it in your browser. For the best development workflow, open the folder in VS Code and use Live Server if installed.
 
 ## Add your profile photo
 
